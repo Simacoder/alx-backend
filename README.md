@@ -34,6 +34,21 @@ What a caching system is
 - What the purpose of a caching system
 - What limits a caching system have
 
+# 0x02. i18n
+
+- This chapter are Internationalization and Localization, commonly abbreviated I18n and L10n
+# Resources
+Read or watch:
+
+- [Flask-Babel](https://intranet.alxswe.com/rltoken/fBpGjDt2BFuBFiz-jwublQ)
+- [Flask i18n tutorial](https://intranet.alxswe.com/rltoken/RtGz7pI7TKnYqrMMG9rWMg)
+- [pytz](https://intranet.alxswe.com/rltoken/7rrCz4pkpqAn4FfRZ2Vsvw)
+
+# Learning Objectives
+- Learn how to parametrize Flask templates to display different languages
+- Learn how to infer the correct locale based on URL parameters, user settings or request headers
+- Learn how to localize timestamps
+
 
 # AUTHOR
 - [Simanga Mchunu](https://twitter.com/Simacoder)
